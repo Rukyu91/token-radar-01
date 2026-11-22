@@ -1,0 +1,5 @@
+out/
+transcripts.tar.gz
+test_shot*.png
+.DS_Store
+*.log
